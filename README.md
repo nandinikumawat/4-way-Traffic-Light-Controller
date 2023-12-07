@@ -18,7 +18,8 @@ The primary goal of this project is to create a traffic light controller that op
 4. **Crystal (12MHz):** Provides the external frequency for the microcontroller.
 5. **Other Components:** Push button, capacitors, resistors, traffic lights module.
 
-![image](https://github.com/nandinikumawat/4-way-Traffic-Light-Controller/assets/63352345/dd9410ba-4771-4a60-810e-b690de7d6d44)
+    ![image](https://github.com/nandinikumawat/4-way-Traffic-Light-Controller/assets/63352345/67c8f400-1324-423d-9586-cd3432227a8e)
+
 
 ### Code
 
